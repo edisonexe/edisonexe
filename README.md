@@ -21,7 +21,7 @@
 #
 <h3 align="left">🤝Связаться со мной:</h3>
 <p align="left">
-<a href="https://t.me/iluha_brooklyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/edisonexe/edisonexe/master/telegram.svg" alt="телега" height="40" width="40" /></a>
+<a href="https://t.me/iluha_rdkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/edisonexe/edisonexe/master/telegram.svg" alt="телега" height="40" width="40" /></a>
 </p>
 
 #
