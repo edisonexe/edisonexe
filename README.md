@@ -1,4 +1,4 @@
-# Илья | Unity Developer
+# Илья
 
 ![ArenaShooter Gameplay](https://github.com/user-attachments/assets/642cc24c-cae8-40d7-aaf8-afa43f07f295)
 
